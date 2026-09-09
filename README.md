@@ -1,7 +1,7 @@
 ## author
 ~ om kartike<br>
 ~ email - omkartik2910@gmail.com<br>
-~ linkedin - linkedin.com/in/om-kartike/<br>
+~ [LinkedIn](https://linkedin.com/in/om-kartike)
 
 # Python Projects
 

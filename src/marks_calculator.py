@@ -1,4 +1,9 @@
 #marks calculator
+print("\n")
+print("name - Om Kartike")
+print("gu_id - 26SSSE3020031")
+print("student-email - om.26ssse3020031@galgotiasuniversity.ac.in")
+print("\n")
 
 sub1 = int(input("Enter marks obtained in sub 1 :"))
 sub2 = int(input("Enter marks obtained in sub 2 :"))

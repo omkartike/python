@@ -1,0 +1,16 @@
+print("\n")
+print("name - Om Kartike")
+print("gu_id - 26SSSE3020031")
+print("student-email - om.26ssse3020031@galgotiasuniversity.ac.in")
+print("\n")
+
+name = input("Enter name: ")
+email = input("Enter email: ")
+city = input("Enter city: ")
+mobile_number = int(input("Enter mobile number: "))
+
+print("\n--- Student Profile ---")
+print("Name:", name)
+print("Age:", email)
+print("City:", city)
+print("Mobile Number:", mobile_number)

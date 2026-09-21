@@ -11,3 +11,9 @@ Calculates the total percentage of marks obtained in 3 subjects.  ✌️
 ## 2.Area Calculator
 A program that calculates the area of different geometric shapes such as square,circle,triangle,rectangle and parallelogram. 😊
 
+## 3. Age Classification
+Determines if a person is a minor, adult, or senior citizen based on their age. 
+
+
+## 4. Marks and Attendance Calculator
+Calculates the total percentage of marks obtained and  checks if the student is eligible for the exam based on the attendance percentage and marks obtained. 
